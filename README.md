@@ -1,6 +1,6 @@
 # cgidictionary
 <p align="center">
-  <img src="screenshot/ss.png" width="350"/>
+  ![Screenshot](screenshot/ss.png)
 </p>
 This is CGI based dictionary web app using "the GNU collaborative international dictionary of English", C++ and pugiXML library 
 
