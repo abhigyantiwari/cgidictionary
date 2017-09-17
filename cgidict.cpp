@@ -60,7 +60,7 @@ public:
 				found=false;
 				if(root==NULL)
 					std::cout<<"error";
-					//cout<<root.child_value("ent");
+					
 				if(strcmp((char*)root.child_value("ent"),keyw)==0)
 				{
 					std::cout << "<script>document.getElementById('meaning-text').textContent='"
