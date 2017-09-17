@@ -1,4 +1,5 @@
-# cgidictionary
+# cgidictionary 
+a c++ web application
 
   <p align="center">
   <img src="https://i.imgur.com/K9Xx0A8.png" alt="screenshot cgi app"> 
@@ -6,7 +7,7 @@
   
 This is CGI based dictionary web app using "the GNU collaborative international dictionary of English", C++ and pugiXML library 
 
-Using pugiXML (XML parsing API for C++) I wrote a C++ application which searches in dictionary XML files I downloaded named GCIDE.
+Using pugiXML (XML parsing API for C++) I wrote a web application which searches in dictionary XML files I downloaded named GCIDE.
 
 It is CGI (google it) based; so that server can host the CGI file I compiled (not .exe) for browser.
 
