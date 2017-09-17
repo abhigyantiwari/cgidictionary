@@ -1,7 +1,7 @@
 # cgidictionary
 
   <p align="center">
-  <img src="https://imgur.com/K9Xx0A8" alt="screenshot cgi app"> 
+  <img src="https://i.imgur.com/K9Xx0A8.png" alt="screenshot cgi app"> 
   </p>
   
 This is CGI based dictionary web app using "the GNU collaborative international dictionary of English", C++ and pugiXML library 
