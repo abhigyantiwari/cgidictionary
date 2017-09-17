@@ -1,5 +1,7 @@
 # cgidictionary
-
+<p align="center">
+  <img src="screenshot/ss.png" width="350"/>
+</p>
 This is CGI based dictionary web app using "the GNU collaborative international dictionary of English", C++ and pugiXML library 
 
 Using pugiXML (XML parsing API for C++) I wrote a C++ application which searches in dictionary XML files I downloaded named GCIDE.
