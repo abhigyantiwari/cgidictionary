@@ -11,7 +11,7 @@ Using pugiXML (XML parsing API for C++) I wrote a web application which searches
 
 It is CGI (google it) based; so that server can host the CGI file I compiled (not .exe) for browser.
 
-Headers, cpp files and XML folder should be copied to cgi-bin folder of the server.
+Headers, cpp files and XML folder should be copied to cgi-bin folder of the server (and compile using ssh or x64 PC :( I don't know where did I use x64 variables but this works only on x64 PC but I'm sure It'll work after being compiled by ssh's gcc though they are x86 or whatever).
 
 Whenever in a mood to change the web design/functionality just recompile the cgidict.cpp file with changes (assuming you know CGI) along
 with pugixml.cpp file linked together.
